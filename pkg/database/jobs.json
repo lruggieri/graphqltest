@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "position": "Software Engineer",
+    "companyID": 1,
+    "description": "job description",
+    "skillsRequired": ["Go", "GraphQL"],
+    "location": "location",
+    "employmentType": "full-time"
+  },
+  {
+    "id": 2,
+    "position": "Software Engineering Manager",
+    "companyID": 2,
+    "description": "job description",
+    "skillsRequired": ["Scrum", "JIRA"],
+    "location": "location",
+    "employmentType": "full-time"
+  },
+  {
+    "id": 3,
+    "position": "System Engineer",
+    "companyID": 3,
+    "description": "job description",
+    "skillsRequired": ["Linux", "Kubernetes"],
+    "location": "location",
+    "employmentType": "full-time"
+  },
+  {
+    "id": 4,
+    "position": "Frontend Engineer",
+    "companyID": 4,
+    "description": "job description",
+    "skillsRequired": ["React", "GraphQL"],
+    "location": "location",
+    "employmentType": "full-time"
+  },
+  {
+    "id": 5,
+    "position": "QA",
+    "companyID": 4,
+    "description": "job description",
+    "skillsRequired": ["Agile", "cucumber"],
+    "location": "location",
+    "employmentType": "full-time"
+  }
+]

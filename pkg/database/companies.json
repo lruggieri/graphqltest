@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "ceoID": 1
+  },
+  {
+    "id": 2,
+    "name": "Google",
+    "ceoID": 2
+  },
+  {
+    "id": 3,
+    "name": "Microsoft",
+    "ceoID": 3
+  },
+  {
+    "id": 4,
+    "name": "Facebook",
+    "ceoID": 4
+  }
+]
