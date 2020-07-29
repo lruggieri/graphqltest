@@ -1,0 +1,10 @@
+name: A workflow for my Hello World file
+on: push
+jobs:
+  build:
+    name: Build and test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: run
+        uses: cedrickring/golang-action@1.5.2
